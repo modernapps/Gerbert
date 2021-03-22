@@ -1,4 +1,4 @@
-# gaming-events-host
+# Gerbert
 
 Host bot for https://discord.st/events
 
